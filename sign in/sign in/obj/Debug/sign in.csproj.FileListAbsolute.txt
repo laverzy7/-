@@ -1,0 +1,14 @@
+C:\Users\xeaae\source\repos\sign in\sign in\obj\Debug\sign in.csprojAssemblyReference.cache
+C:\Users\xeaae\source\repos\sign in\sign in\obj\Debug\sign_in.Form1.resources
+C:\Users\xeaae\source\repos\sign in\sign in\obj\Debug\sign_in.Properties.Resources.resources
+C:\Users\xeaae\source\repos\sign in\sign in\obj\Debug\sign in.csproj.GenerateResource.cache
+C:\Users\xeaae\source\repos\sign in\sign in\bin\Debug\sign in.exe.config
+C:\Users\xeaae\source\repos\sign in\sign in\bin\Debug\sign in.exe
+C:\Users\xeaae\source\repos\sign in\sign in\bin\Debug\sign in.pdb
+C:\Users\xeaae\source\repos\sign in\sign in\obj\Debug\sign in.exe
+C:\Users\xeaae\source\repos\sign in\sign in\obj\Debug\sign in.pdb
+C:\Users\xeaae\source\repos\sign in\sign in\obj\Debug\sign_in.Form2.resources
+C:\Users\xeaae\source\repos\sign in\sign in\obj\Debug\sign_in.Form3.resources
+C:\Users\xeaae\source\repos\sign in\sign in\obj\Debug\sign_in.Form4.resources
+C:\Users\xeaae\source\repos\sign in\sign in\obj\Debug\sign_in.Form5.resources
+C:\Users\xeaae\source\repos\sign in\sign in\obj\Debug\sign_in.Form6.resources
